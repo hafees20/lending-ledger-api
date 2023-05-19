@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Key Feautures](#key-features)
-- [Developement Environment](#steps-to-set-up-a-development-environment-for-the-project)
+- [Developement Environment](#steps-to-set-up-a-development-environment)
 - [Running the project](#steps-to-run-the-project)
 - [Environment Variables](#environment-variables-needed)
 
