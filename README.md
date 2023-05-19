@@ -42,7 +42,7 @@ This sample project allows users to manage a `lending ledger` using `Google Shee
 - PORT
 - SHEET_ID
 
-#### (`Google Service Account Credential Variables`)
+#### ( Google Service Account Credential Variables )
 - TYPE
 - PROJECT_ID
 - PRIVATE_KEY_ID
