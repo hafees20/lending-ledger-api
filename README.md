@@ -19,7 +19,7 @@ This sample project allows users to manage a `lending ledger` using `Google Shee
 * Retrieve a specific ledger entry by its ID
 * Delete a specific ledger entry by its ID
 ***
-## Steps to set up a development environment :-
+## Steps to set up a development environment
 1. Clone this project repository.
 2. Install node.js and npm if not installed.
 3. Open the terminal and go to the project folder.
@@ -28,7 +28,7 @@ This sample project allows users to manage a `lending ledger` using `Google Shee
 6. Now type `npm run dev` and run the dev server.
 ***
 
-## Steps to run the project :-
+## Steps to run the project
 1. Clone the repository.
 2. Install node.js and npm.
 3. Navigate to project folder using terminal.
